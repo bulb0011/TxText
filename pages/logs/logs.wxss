@@ -1,0 +1,14 @@
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.log-item {
+  margin: 10rpx;
+}
+.textcoss{
+  /* margin: 10rpx; */
+  background-color: red;
+  /* text-align: center; */
+  margin: 0 auto;
+}
